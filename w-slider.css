@@ -1,0 +1,11 @@
+.w-slider-dot {
+    width: 4px;
+    height: 4px;
+    background: grey;
+  }
+
+  .w-slider-dot.w-active {
+    width: 4px;
+    height: 4px;
+    background: black;
+  }
